@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Akshit Sharma</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=490&lines=Bringing+ideas+to+life%2C+one+line+of+code+at+a+time;Passionate+about+creating+impact;Let%27s+build+something+amazing+together!" <br> alt="Typing SVG - Bringing ideas to life" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=490&lines=Bringing+ideas+to+life%2C+one+line+of+code+at+a+time;Passionate+about+creating+impact;Let%27s+build+something+amazing+together!" alt="Typing SVG - Bringing ideas to life" />
 </p>
 
 ---
