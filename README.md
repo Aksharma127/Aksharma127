@@ -1,94 +1,122 @@
 <h1 align="center">Akshit Sharma</h1>
+
 <h3 align="center">
-Computer Science Student • Systems & AI Enthusiast
+ML & AI Engineer&nbsp;·&nbsp;Systems-First Thinker&nbsp;·&nbsp;Building Things That Actually Work
 </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akshit-sharma-52660a251/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:asharma53858@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-asharma53858-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://aksharma127.github.io/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live-111827?style=for-the-badge&logo=githubpages&logoColor=white"/>
   </a>
   <a href="https://github.com/Aksharma127">
-    <img src="https://img.shields.io/github/followers/Aksharma127?label=GitHub&style=for-the-badge"/>
+    <img src="https://img.shields.io/github/followers/Aksharma127?label=Follow&style=for-the-badge&color=6e40c9"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=520&lines=Building+robust+software+systems;Focused+on+clarity%2C+performance%2C+and+impact;Learning+by+building+real+projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&duration=3000&pause=1000&color=A3E635&center=true&vCenter=true&width=600&lines=Multi-agent+RAG+%7C+LangGraph+%7C+GCP+Cloud+Run;Custom+Chromium+instrumentation+in+C%2B%2B;Julia+geospatial+ML+%E2%80%94+15-40x+faster;IBM+%7C+PDPM+IIITDM+%7C+Excellence+Award+Top+5%25" />
 </p>
 
 ---
 
-## About Me
+## Who I Am
 
-I am a **Computer Science student** with strong interest in **systems programming, artificial intelligence, and applied machine learning**.  
-I focus on understanding software at a fundamental level — from **compilers and rendering engines** to **data pipelines and ML models**.
+Final-year **B.Tech CSE (Data Science & AI)** student at Bahra University, graduating 2026. I build ML systems end-to-end — from raw data and model design down to deployment infra and performance tuning.
 
-I prefer learning through **hands-on implementation** and working on projects that emphasize correctness, performance, and scalability.
+I care about **why things work**, not just that they do. That means reading papers, profiling hot paths, understanding the compiler output, and not shipping until the numbers make sense.
 
-Current areas of exploration:
-- Deep Learning and model optimization  
-- Geospatial data analysis  
-- Reinforcement Learning  
-- Compilers and low-level system design  
+Research trainee @ **PDPM IIITDM Jabalpur** — Excellence Award, top 5%.  
+Internships @ **IBM Cloud** and **IBM Cybersecurity**.  
 
 ---
 
-## Selected Projects
+## Flagship Projects
 
-| Project | Description | Technologies |
-|-------|-------------|--------------|
-| Ray Tracer | CPU-based ray tracer implementing reflection, refraction, shadows, and BVH acceleration. | C++, Graphics |
-| Voxel Engine (Minecraft-style) | Custom voxel-based engine focused on rendering pipelines and engine fundamentals. | C++, OpenGL |
-| ISRO Geospatial Analysis | NDVI and vegetation analysis using real satellite datasets. | Python, GeoPandas |
-| Custom Compiler | End-to-end compiler for a custom language, from lexical analysis to assembly generation. | Lex, Yacc, C++, Assembly |
+### [DeepResearch](https://github.com/Aksharma127/DeepResearch) — Multi-Agent Research Assistant
+> LangGraph orchestration · Qdrant vector store · FastAPI · Docker · GCP Cloud Run
+
+A production-deployed multi-agent RAG pipeline. Sub-query decomposition, parallel retrieval across specialized agents, semantic reranking, and streaming responses over REST. Containerized on Cloud Run with auto-scaling. Covers 12 distinct ML engineering skills end-to-end.
 
 ---
 
-## Technical Skills
+### [Headless_BAI](https://github.com/Aksharma127/Headless_BAI) — Browser AI Interaction Optimizer
+> Custom Chromium C++ instrumentation · K-Means clustering · Groq Llama-3-8B · Synthetic telemetry pipeline
+
+Modified Chromium at the source level to extract native DOM bounding-box data without rendering overhead. Built a synthetic telemetry pipeline (10,800+ Gaussian-distributed events), EMA-weighted K-Means clustering for interaction zones, and Llama-3-8B agentic layout routing at T=0.1. Primary metric: **1D Kinematic Friction Score**. Result: **31.42% friction reduction** vs baseline.
+
+---
+
+### [GeoSmart Advisor](https://github.com/Aksharma127/GeoSmart) — Geospatial ML Intelligence Layer
+> Julia computational core · LangGraph async pipeline · WebGL frontend · Free-tier infra
+
+Julia handles the numerically intensive geospatial workloads — spatial indexing, raster ops, coordinate transforms — delivering **15–40× speedup** over equivalent Python. LangGraph orchestrates async query decomposition. WebGL renders spatial outputs in-browser. Entire stack runs on free-tier infrastructure.
+
+---
+
+### Custom Compiler
+> Lex · Yacc · C++ · x86 Assembly
+
+End-to-end compiler for a custom language: lexer, recursive-descent parser, semantic analysis, IR lowering, and x86 assembly output. Built to understand what actually happens between source text and machine instructions.
+
+---
+
+## Technical Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,html,css,mysql,postgres,linux,git,github,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,julia,java,js,react,fastapi,docker,gcp,linux,git,postgres,redis&theme=dark&perline=13" />
+</p>
+
+**ML / AI:** LangGraph · LangChain · Qdrant · ChromaDB · Groq · HuggingFace · Llama 3 · RAG pipelines  
+**Infrastructure:** GCP Cloud Run · Docker · FastAPI · REST · async Python  
+**Systems:** C++ · Custom Chromium builds · x86 Assembly · Compilers  
+**Data:** Julia · GeoPandas · GDAL · Rasterio · WebGL  
+**Tools:** Git · Linux · VS Code · Jupyter
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aksharma127&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aksharma127&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksharma127&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
 </p>
 
 ---
 
-## GitHub Activity
+## Certifications & Recognition
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aksharma127&show_icons=true&theme=radical&rank_icon=github" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aksharma127&theme=radical" width="48%" />
-</p>
-
----
-
-## Highlights
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aksharma127&theme=onedark&margin-w=10" />
-</p>
+- 🏅 **Excellence Award** — PDPM IIITDM Jabalpur Research Traineeship (Top 5%)
+- ☁️ **AWS** — Cloud Practitioner
+- 🤖 **IBM** — AI, Data Science, Cybersecurity (multiple)
+- 🛰️ **ISRO** — Geospatial Technology
+- 🎓 **Google Student Ambassador**
 
 ---
 
-## Contact
+## What I'm Exploring Next
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/akshit-sharma-52660a251/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:asharma53858@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+- Quantum ML — specifically efficient qubit utilization for classical ML workloads  
+- Multi-modal agent architectures  
+- Systems-level performance engineering for inference pipelines
 
 ---
 
 <p align="center">
-<em>“I build software by understanding it from the inside out.”</em>
+  <em>"I build from the inside out — understanding the system before I optimize it."</em>
 </p>
 
 <p align="center">
-If you find something interesting here, feel free to explore or reach out.
+  <a href="https://aksharma127.github.io/portfolio">portfolio</a>&nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/akshit-sharma-52660a251/">linkedin</a>&nbsp;·&nbsp;
+  <a href="mailto:asharma53858@gmail.com">email</a>
 </p>
