@@ -116,7 +116,7 @@ End-to-end compiler for a custom language: lexer, recursive-descent parser, sema
 </p>
 
 <p align="center">
-  <a href="https://aksharma127.github.io/portfolio">portfolio</a>&nbsp;·&nbsp;
+  <a href="https://portfolio-puce-sigma-70.vercel.app">portfolio</a>&nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/akshit-sharma-52660a251/">linkedin</a>&nbsp;·&nbsp;
   <a href="mailto:asharma53858@gmail.com">email</a>
 </p>
