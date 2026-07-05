@@ -11,8 +11,8 @@ ML & AI Engineer&nbsp;·&nbsp;Systems-First Thinker&nbsp;·&nbsp;Building Things
   <a href="mailto:asharma53858@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-asharma53858-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://aksharma127.github.io/portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Live-111827?style=for-the-badge&logo=githubpages&logoColor=white"/>
+  <a href="https://portfolio-puce-sigma-70.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://github.com/Aksharma127">
     <img src="https://img.shields.io/github/followers/Aksharma127?label=Follow&style=for-the-badge&color=6e40c9"/>
@@ -27,12 +27,12 @@ ML & AI Engineer&nbsp;·&nbsp;Systems-First Thinker&nbsp;·&nbsp;Building Things
 
 ## Who I Am
 
-Final-year **B.Tech CSE (Data Science & AI)** student at Bahra University, graduating 2026. I build ML systems end-to-end — from raw data and model design down to deployment infra and performance tuning.
+**B.Tech CSE (Data Science, AI & ML)** graduate from Bahra University, Himachal Pradesh — Class of 2026. I build ML systems end-to-end: raw data and model design down to deployment infra and performance tuning.
 
-I care about **why things work**, not just that they do. That means reading papers, profiling hot paths, understanding the compiler output, and not shipping until the numbers make sense.
+I care about **why things work**, not just that they do. That means reading papers, profiling hot paths, understanding the compiler output, and not shipping until the numbers make sense. Currently looking for **AI/ML Engineer, LLM Infrastructure, and Agentic Systems** roles — open to remote and relocation.
 
-Research trainee @ **PDPM IIITDM Jabalpur** — Excellence Award, top 5%.  
-Internships @ **IBM Cloud** and **IBM Cybersecurity**.  
+Research trainee @ **PDPM IIITDM Jabalpur** — Excellence Award, top 5%.
+Internships @ **IBM Cloud** and **IBM Cybersecurity**.
 
 ---
 
@@ -41,21 +41,28 @@ Internships @ **IBM Cloud** and **IBM Cybersecurity**.
 ### [DeepResearch](https://github.com/Aksharma127/DeepResearch) — Multi-Agent Research Assistant
 > LangGraph orchestration · Qdrant vector store · FastAPI · Docker · GCP Cloud Run
 
-A production-deployed multi-agent RAG pipeline. Sub-query decomposition, parallel retrieval across specialized agents, semantic reranking, and streaming responses over REST. Containerized on Cloud Run with auto-scaling. Covers 12 distinct ML engineering skills end-to-end.
+A production-deployed multi-agent RAG pipeline. Sub-query decomposition, parallel retrieval across specialized agents, semantic reranking, and streaming responses over REST. Containerized on Cloud Run with auto-scaling.
 
 ---
 
 ### [Headless_BAI](https://github.com/Aksharma127/Headless_BAI) — Browser AI Interaction Optimizer
 > Custom Chromium C++ instrumentation · K-Means clustering · Groq Llama-3-8B · Synthetic telemetry pipeline
 
-Modified Chromium at the source level to extract native DOM bounding-box data without rendering overhead. Built a synthetic telemetry pipeline (10,800+ Gaussian-distributed events), EMA-weighted K-Means clustering for interaction zones, and Llama-3-8B agentic layout routing at T=0.1. Primary metric: **1D Kinematic Friction Score**. Result: **31.42% friction reduction** vs baseline.
+Modified Chromium at the source level to extract native DOM bounding-box data without rendering overhead. Built a synthetic telemetry pipeline (10,800+ Gaussian-distributed events), EMA-weighted K-Means clustering for interaction zones, and Llama-3-8B agentic layout routing at T=0.1. Primary metric: **1D Kinematic Friction Score**. Result: **31.42% friction reduction** vs baseline. Built as my B.Tech capstone project.
 
 ---
 
 ### [GeoSmart Advisor](https://github.com/Aksharma127/GeoSmart) — Geospatial ML Intelligence Layer
 > Julia computational core · LangGraph async pipeline · WebGL frontend · Free-tier infra
 
-Julia handles the numerically intensive geospatial workloads — spatial indexing, raster ops, coordinate transforms — delivering **15–40× speedup** over equivalent Python. LangGraph orchestrates async query decomposition. WebGL renders spatial outputs in-browser. Entire stack runs on free-tier infrastructure.
+Julia handles the numerically intensive geospatial workloads — spatial indexing, raster ops, coordinate transforms — delivering **15–40× speedup** over equivalent Python. LangGraph orchestrates async query decomposition. Rebuilt from scratch after the original codebase was lost. Entire stack runs on free-tier infrastructure.
+
+---
+
+### [Edge-Optimized Video Analytics Pipeline](https://github.com/Aksharma127/Edge-Optimized-Video-Analytics-Pipeline) — Real-Time Detection on Edge Hardware
+> C++17 · YOLOv8 (ONNX) · OpenCV DNN · V4L2
+
+Real-time object detection built for edge deployment: YOLOv8 inference via OpenCV's DNN module, direct V4L2 camera capture, custom NMS, and live telemetry — no Python runtime in the inference path.
 
 ---
 
@@ -72,10 +79,10 @@ End-to-end compiler for a custom language: lexer, recursive-descent parser, sema
   <img src="https://skillicons.dev/icons?i=python,cpp,julia,java,js,react,fastapi,docker,gcp,linux,git,postgres,redis&theme=dark&perline=13" />
 </p>
 
-**ML / AI:** LangGraph · LangChain · Qdrant · ChromaDB · Groq · HuggingFace · Llama 3 · RAG pipelines  
-**Infrastructure:** GCP Cloud Run · Docker · FastAPI · REST · async Python  
-**Systems:** C++ · Custom Chromium builds · x86 Assembly · Compilers  
-**Data:** Julia · GeoPandas · GDAL · Rasterio · WebGL  
+**ML / AI:** LangGraph · LangChain · Qdrant · ChromaDB · Groq · HuggingFace · Llama 3 · RAG pipelines
+**Infrastructure:** GCP Cloud Run · Docker · FastAPI · REST · async Python
+**Systems:** C++ · Custom Chromium builds · x86 Assembly · Compilers
+**Data:** Julia · GeoPandas · GDAL · Rasterio · WebGL
 **Tools:** Git · Linux · VS Code · Jupyter
 
 ---
@@ -105,8 +112,8 @@ End-to-end compiler for a custom language: lexer, recursive-descent parser, sema
 
 ## What I'm Exploring Next
 
-- Quantum ML — specifically efficient qubit utilization for classical ML workloads  
-- Multi-modal agent architectures  
+- Quantum ML — specifically efficient qubit utilization for classical ML workloads
+- Multi-modal agent architectures
 - Systems-level performance engineering for inference pipelines
 
 ---
