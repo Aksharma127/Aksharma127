@@ -36,19 +36,19 @@ Internships @ **IBM Cloud** and **IBM Cybersecurity**.
 
 ---
 
-## Flagship Projects
-
-### [DeepResearch](https://github.com/Aksharma127/cortex) — Multi-Agent Research Assistant
-> LangGraph orchestration · Qdrant vector store · FastAPI · Docker · GCP Cloud Run
-
-A production-deployed multi-agent RAG pipeline. Sub-query decomposition, parallel retrieval across specialized agents, semantic reranking, and streaming responses over REST. Containerized on Cloud Run with auto-scaling.
-
----
+## Projects
 
 ### [Headless_BAI](https://github.com/Aksharma127/Headless_BAI_orignal) — Browser AI Interaction Optimizer
 > Custom Chromium C++ instrumentation · K-Means clustering · Groq Llama-3-8B · Synthetic telemetry pipeline
 
 Modified Chromium at the source level to extract native DOM bounding-box data without rendering overhead. Built a synthetic telemetry pipeline (10,800+ Gaussian-distributed events), EMA-weighted K-Means clustering for interaction zones, and Llama-3-8B agentic layout routing at T=0.1. Primary metric: **1D Kinematic Friction Score**. Result: **31.42% friction reduction** vs baseline. Built as my B.Tech capstone project.
+
+---
+
+### [DeepResearch](https://github.com/Aksharma127/cortex) — Multi-Agent Research Assistant
+> LangGraph orchestration · Qdrant vector store · FastAPI · Docker · GCP Cloud Run
+
+A production-deployed multi-agent RAG pipeline. Sub-query decomposition, parallel retrieval across specialized agents, semantic reranking, and streaming responses over REST. Containerized on Cloud Run with auto-scaling.
 
 ---
 
@@ -66,10 +66,10 @@ Real-time object detection built for edge deployment: YOLOv8 inference via OpenC
 
 ---
 
-### Custom Compiler
-> Lex · Yacc · C++ · x86 Assembly
+### [ChernobylKinetics](https://github.com/Aksharma127/ChernobylKinetics) — ChernobylKinetics
+> Jupyter Notebook · DifferentialEquations.jl · Julia
 
-End-to-end compiler for a custom language: lexer, recursive-descent parser, semantic analysis, IR lowering, and x86 assembly output. Built to understand what actually happens between source text and machine instructions.
+Anatomy of a Runaway Reaction: A Computational Reconstruction of the 1986 Chernobyl Disaster. To investigate these physics quantitatively, I developed a point-kinetics model in the Julia programming language. This model simplifies the reactor core to a single point but retains the critical time-dependent physics.
 
 ---
 
