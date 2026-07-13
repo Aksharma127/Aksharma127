@@ -38,21 +38,21 @@ Internships @ **IBM Cloud** and **IBM Cybersecurity**.
 
 ## Flagship Projects
 
-### [DeepResearch](https://github.com/Aksharma127/DeepResearch) — Multi-Agent Research Assistant
+### [DeepResearch](https://github.com/Aksharma127/cortex) — Multi-Agent Research Assistant
 > LangGraph orchestration · Qdrant vector store · FastAPI · Docker · GCP Cloud Run
 
 A production-deployed multi-agent RAG pipeline. Sub-query decomposition, parallel retrieval across specialized agents, semantic reranking, and streaming responses over REST. Containerized on Cloud Run with auto-scaling.
 
 ---
 
-### [Headless_BAI](https://github.com/Aksharma127/Headless_BAI) — Browser AI Interaction Optimizer
+### [Headless_BAI](https://github.com/Aksharma127/Headless_BAI_orignal) — Browser AI Interaction Optimizer
 > Custom Chromium C++ instrumentation · K-Means clustering · Groq Llama-3-8B · Synthetic telemetry pipeline
 
 Modified Chromium at the source level to extract native DOM bounding-box data without rendering overhead. Built a synthetic telemetry pipeline (10,800+ Gaussian-distributed events), EMA-weighted K-Means clustering for interaction zones, and Llama-3-8B agentic layout routing at T=0.1. Primary metric: **1D Kinematic Friction Score**. Result: **31.42% friction reduction** vs baseline. Built as my B.Tech capstone project.
 
 ---
 
-### [GeoSmart Advisor](https://github.com/Aksharma127/GeoSmart) — Geospatial ML Intelligence Layer
+### [GeoSmart Advisor](https://github.com/Aksharma127/GeoSmart_Advisor) — Geospatial ML Intelligence Layer
 > Julia computational core · LangGraph async pipeline · WebGL frontend · Free-tier infra
 
 Julia handles the numerically intensive geospatial workloads — spatial indexing, raster ops, coordinate transforms — delivering **15–40× speedup** over equivalent Python. LangGraph orchestrates async query decomposition. Rebuilt from scratch after the original codebase was lost. Entire stack runs on free-tier infrastructure.
